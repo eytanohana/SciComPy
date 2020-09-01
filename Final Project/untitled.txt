@@ -1,0 +1,10 @@
+Split the data by date.
+    - Analyze people who signup january 1st, then people who sign up January 2nd, ...
+
+How long it takes a player from sign-up to FTD.
+- distributed
+
+Player ID, Signup date, deposit date, his welcome bonus , country
+
+How many players each day sign-up / FTD.
+

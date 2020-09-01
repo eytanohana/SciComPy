@@ -1,0 +1,29 @@
+compare players that sign up and put money right away use more money than those who wait between sign up and first deposit.
+
+Players with big wins/losses do they usually increase/decrease the amount they play afterword.
+
+- how do big wins/losses affect players 
+
+
+Project:
+
+Oline casino, 15+ countries (Scandinavian), 4500 players a day.
+
+Conversion Rate: Time from signup to first time deposit. (deposit as in first time gambling?) 
+- How is the conversion rate distributed?
+- 
+Bayesian inference, emcee, prior, posterior, likelihood
+Changes between different countries. 
+Distribution of every country (together and separate)
+
+Does higher welcome offer affect the conversion rate?
+
+Turn over: How much money a player plays in a given period. 
+How is turn over distributed
+
+compare differences marketing sources ability to bring in players.
+
+Expected results: 
+    conversion rate normal distribution with mean 60% and ? std.
+    turn over - poisson mu = 600 euro 
+
